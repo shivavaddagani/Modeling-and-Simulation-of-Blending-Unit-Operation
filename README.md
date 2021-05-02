@@ -1,4 +1,4 @@
-# Modeling-and-Simulation-of-Blending-Unit-Operation
+# Modeling and Simulation of Blending Unit Operation
 ## Daiichi-Sankyo Europe(DSE) and CSIR-Indian Institute of Chemical Technology(IICT) collaborated project <br>
 
 ### A Breif Intro to the Project <br>
