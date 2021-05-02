@@ -7,17 +7,17 @@
 Due to the size, density, etc. variations of API and Excipients(ingredients for phamaceutical tablets) in the feed mixture, they tend to segregate during the belnding process.<br>
 Since every tablet has to have only the prescribed amount of API inside a tablet, and any excess amount of API in tablets will have effect on consumers, **attaining blend uniformity is given utmost importance.** <br>
 
-=========================== Goal is to Attain Blend Uniformity ============================
+=========================== Aim is to Attain Blend Uniformity ============================
 
 ### 2. What factors influence blending process
 - Particle parameters(size, shape, density, etc.)
 - Geometric paramters(blender shape, angle, baffles, etc.)
 - Operating parameters(Feeding order, Rotational speed, composition, cohesion, time, etc.)
 
-### By now I guess you have had an intro into our projects goal & factors influencing belnding process.
+### By now I guess you have had an intro into our project's Aim & the factors influencing belnding process.
 
-- In this project we had to come up with blending process parameters which result in uniform blend
 - Carried out Discrete Element Method(DEM) Simulations for various ranges of parameters
+- We have identified the ranges of parameters which result in uniform blending
 
 Below image shows how the mixture of API(green) and Excipients changes across time for different belnder speeds.
 
