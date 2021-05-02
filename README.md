@@ -25,10 +25,12 @@ Below image shows how the mixture of API(green) and Excipients changes across ti
 
 Lot more to tell, but will wind up in few sentences, always feel free to reach out to me for further details.
 
-# Exciting project right!!
-## This is team I worked with
-## Always thankful to the DSE and CSIR-IICT for giving this opportunity and the learning experience I got <br>
+## Exciting project right!!
+
+## The Team
 
 <p align="center">
   <img src="https://github.com/shivavaddagani/Modeling-and-Simulation-of-Blending-Unit-Operation/blob/master/Images/IMG_3363.JPG"/>
 </p>
+
+## Always thankful to DSE and CSIR-IICT for giving me this opportunity
