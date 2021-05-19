@@ -7,7 +7,7 @@
 Due to the size, density, etc. variations of API and Excipients(ingredients for phamaceutical tablets) in the feed mixture, they tend to segregate during the belnding process.<br>
 Since every tablet has to have only the prescribed amount of API inside a tablet, and any excess amount of API in tablets will have adverse effect on consumers, **attaining blend uniformity is given utmost importance.** <br>
 
-=========================== Aim is to Attain Blend Uniformity ============================
+======================= Aim is to Attain Blend Uniformity ======================
 
 ### 2. What factors influence blending process
 - Particle parameters(size, shape, density, etc.)
